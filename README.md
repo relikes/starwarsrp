@@ -1,4 +1,4 @@
-# StarWarsRP Gamemode
+# Gmod StarWarsRP Gamemode
 StarWarsRP gamemode for Garry's Mod (Built on DarkRP by https://github.com/FPtje/DarkRP)
 
 # Server Installation
